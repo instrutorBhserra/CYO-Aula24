@@ -1,0 +1,13 @@
+section > p {
+  background-color: yellow;
+}
+p > span {
+  background-color: cyan;
+}
+h4 > span {
+  background-color: red;
+}
+div>span{
+    color: lime;
+}
+

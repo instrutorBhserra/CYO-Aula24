@@ -1,0 +1,31 @@
+body {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: black;
+
+    color:white;
+
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+h1,h3{
+    color: brown;
+}
+
+/* Tag */
+li{
+    color: yellow;
+    
+}
+/* Id */
+#meuItem{
+    color: cyan;
+}
+/* Class */
+.hotLink{
+    color:red;
+}
